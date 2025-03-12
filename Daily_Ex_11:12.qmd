@@ -155,7 +155,7 @@ ggscatter(augmented_data, x = "Ozone", y = ".fitted",
 #Q19: How strong of a model do you think this is? In the summary output of the linear regression model we see an adjusted r-squared of 0.6106 which indicates the model explainign 61.06% of variance in the dependent variable Ozone. The adjusted r-squared is an essential factor in indicating the model's predictive power, and from thhe summary we have strong significance with the predictors Wind, Temp, and Solar Radiation. This ultimately leads me to think this is a moderately strong model for the predictors. 
 
 
-#Q20: Render your document to HTML and submit to Canvas. Be sure to include this in your document yml:
+#Q20: Render your document to HTML and submit to Canvas. 
 
 
 
