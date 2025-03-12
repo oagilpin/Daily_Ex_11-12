@@ -6,6 +6,8 @@ author:
   email: "ogilpin@colostate.edu"
 date: 2025-03-11
 format: html
+execute:
+  echo: true
 editor: visual
 ---
 
