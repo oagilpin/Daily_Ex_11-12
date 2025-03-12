@@ -7,6 +7,8 @@ author:
     affiliation: "[GitHub](https://github.com/oagilpin)"
 date: 2025-03-11
 format: html
+execute:
+  echo: true
 editor: visual
 ---
 

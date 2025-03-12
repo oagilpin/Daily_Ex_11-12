@@ -5,6 +5,6 @@ project:
   type: website
 
 format:
-   html:
-     self-contained: true
+  html:
+    self-contained: true
 ---
