@@ -9,7 +9,7 @@ format: html
 editor: visual
 ---
 
-```{r setup, include=FALSE}
+```{r}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
