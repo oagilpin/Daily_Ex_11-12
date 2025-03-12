@@ -6,5 +6,5 @@ project:
 
 format:
    html:
-    self-contained: true
+     self-contained: true
 ---
