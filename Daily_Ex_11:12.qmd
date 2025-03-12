@@ -2,14 +2,11 @@
 title: "Daily_Ex_11/12"
 subtitle: 'Ecosystem Science and Sustainability 330'
 author: 
-- name: "Olivia Gilpin"
+- name: "Olivia Gilpin: [GitHub](https://github.com/oagilpin)"
   email: "ogilpin@colostate.edu"
-  affiliation: "[GitHub](https://github.com/oagilpin)"
 date: 2025-03-11
 format: html
 editor: visual
-execute:
-  echo: true
 ---
 
 ```{r setup, include=FALSE}
